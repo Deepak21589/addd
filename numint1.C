@@ -3,7 +3,7 @@ int main()
 {
     long n;
     int count = 0;
-
+  clrscr();  
     printf("\nEnter an integer: ");
     scanf("%ld", &n);
 
