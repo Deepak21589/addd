@@ -3,6 +3,7 @@
 void main()
 {
 int x,y,z;
+ clrscr();
 printf("\nenter three numbers :");
 scanf("%x%y%z",&x&y&z);
 if((x>y)&&(x>z))
