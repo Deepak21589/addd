@@ -7,6 +7,6 @@ printf("\nenter any num u want to see the suprise:");
 scanf("%d",&x);
 for(i=0;i<=x;i++)
 {
-printf("\nHELLO");
+printf("\nHELLO hi");
 }
-getch()
+getch();
